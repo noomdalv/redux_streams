@@ -6,9 +6,16 @@
       "id": 1
     },
     {
-      "title": "Vlad's Stream",
-      "description": "test stream",
+      "title": "Vlad 2.0 stream",
+      "description": "now with userId!",
+      "userId": null,
       "id": 2
+    },
+    {
+      "title": "Vlad 3.0 Stream",
+      "description": "Now signed in with options!",
+      "userId": "111650193105831400122",
+      "id": 3
     }
   ]
 }
