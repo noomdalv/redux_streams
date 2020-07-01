@@ -1,21 +1,10 @@
 {
   "streams": [
     {
-      "title": "Vlad's Stream",
-      "description": "test stream",
-      "id": 1
-    },
-    {
-      "title": "Vlad 2.0 stream",
-      "description": "now with userId!",
-      "userId": null,
-      "id": 2
-    },
-    {
-      "title": "Vlad 3.0 Stream",
-      "description": "Now signed in with options!",
+      "title": "vlad 2.0",
+      "description": "New improved stream!!",
       "userId": "111650193105831400122",
-      "id": 3
+      "id": 1
     }
   ]
 }
