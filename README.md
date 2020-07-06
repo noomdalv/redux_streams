@@ -1,9 +1,9 @@
 ## Stream Service App
 
-This application allows users to sign in with their google account and create/edit/delete and view live streams.
-It implements a RESTFul API with JSONServer, a RTMP Server to facilitate the connection with [flv.js](https://github.com/Bilibili/flv.js/), allowing easy stream configurations through web hooks and flash video player.
-The application was tested using OBS(Open Broadcaster Software).
-The user is able to create a stream and setup an easy connection through the RTMP server with by using his stream id as the stream key.
+This application allows users to sign in with their google account and create/edit/delete and view live streams.  
+It implements a RESTFul API with JSONServer, a RTMP Server to facilitate the connection with [flv.js](https://github.com/Bilibili/flv.js/), allowing easy stream configurations through web hooks and flash video player.  
+The application was tested using OBS(Open Broadcaster Software).  
+Users are able to create and setup an easy stream connection with the RTMP server by using the stream id as the stream key.  
 <b>Example</b>
 ```
 rtmp://localhost/live/:id
