@@ -4,6 +4,7 @@ This application allows users to sign in with their google account and create/ed
 It implements a RESTFul API with JSONServer, a RTMP Server to facilitate the connection with [flv.js](https://github.com/Bilibili/flv.js/), allowing easy stream configurations through web hooks and flash video player.
 The application was tested using OBS(Open Broadcaster Software).
 The user is able to create a stream and setup an easy connection through the RTMP server with by using his stream id as the stream key.
+<b>Example</b>
 ```
 rtmp://localhost/live/:id
 ```
@@ -21,8 +22,8 @@ rtmp://localhost/live/:id
 
 ## App Screenshots
 
-![screenshot](./src/misc/ss1.jpg)
-![screenshot](./src/misc/ss3.jpg)
+![screenshot](./client/src/misc/ss1.JPG)
+![screenshot](./client/src/misc/ss3.JPG)
 
 ## Setup instructions
 
