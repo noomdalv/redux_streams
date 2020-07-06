@@ -5,9 +5,9 @@ import GoogleAuth from './GoogleAuth';
 const Header = () => {
 	return (
 		<div className="ui secondary pointing menu">
-			<Link to="/" className="item">Streamer App</Link>
+			<Link to="/" className="item"><h2>EasyStream App</h2></Link>
 			<div className="right menu">
-				<Link to="/" className="item">All Streams</Link>
+				<Link to="/" className="item"><h5>All Streams</h5></Link>
 			</div>
 			<GoogleAuth />
 		</div>
