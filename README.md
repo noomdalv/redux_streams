@@ -63,7 +63,7 @@ Finally, start the server with:
 npm start
 ```
 
-## Special Thanks to [Stephen Grider](https://www.udemy.com/course/react-redux/) for his amazing tutorial.
+### Special Thanks to [Stephen Grider](https://www.udemy.com/course/react-redux/) for his amazing tutorial.
 
 ## Author
 
